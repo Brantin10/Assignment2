@@ -193,7 +193,6 @@ Read more on:
 -----------------------------------------------------------
 You can unify the codestyle using black. Running black will change your source code to have a codestyle according to black codestyle.
 
-Same same, different names
 ```
 make black
 ```
